@@ -10,9 +10,9 @@
 </a>
 <br><br>
 
-🔭 I'm Anand, Pursuing my bachlors deggre in Computer Engineering
-🧑‍💻 I ❤️ to create interactive web experiences
-🤝 Looking forward to contribute in Web Dev and Java projects.
+🔭 I'm Anand, Pursuing my bachlors deggre in Computer Engineering <br>
+🧑‍💻 I ❤️ to create interactive web experiences <br>
+🤝 Looking forward to contribute in Web Dev and Java projects <br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=onlyanand10&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
