@@ -1,4 +1,4 @@
-## 👋 Namaste, I'm <a href="https://www.linkedin.com/in/anand-suryawanshi-532a87155/"> <b style="color:red;">Anand Suryawanshi </b></a>  
+## 👋 Namaste, I'm <a href="https://www.itsanand.tech/"> <b style="color:red;">Anand Suryawanshi </b></a>  
 
 🔭 I'm Anand, Pursuing my bachlors deggre in Computer Engineering <br>
 🧑‍💻 I ❤️ to create interactive web experiences <br>
