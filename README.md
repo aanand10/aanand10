@@ -18,7 +18,7 @@
 	<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 
-## 📈Stats
+### 📈Stats
 <p align="center">
 	<img width="60%" src="https://github-readme-stats.vercel.app/api?username=onlyanand10&show_icons=true&theme=highcontrast" />
  
