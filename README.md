@@ -17,7 +17,7 @@
 <a href="[https://www.youtube.com/channel/UCSch4za59t6N2kYfZH-B_YQ](https://www.youtube.com/c/AnandSuryawanshi10)">
 	<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
-<br>
+</br>
 ## 📈Stats
 <p align="center">
 	<img width="60%" src="https://github-readme-stats.vercel.app/api?username=onlyanand10&show_icons=true&theme=highcontrast" />
