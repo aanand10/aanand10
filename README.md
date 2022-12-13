@@ -21,6 +21,8 @@
 ### 📈Stats
 <p align="center">
 	<img width="60%" src="https://github-readme-stats.vercel.app/api?username=onlyanand10&show_icons=true&theme=highcontrast" />
- 
+  <img alt="Anand Suryawanshi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onlyanand10&layout=compact" />
+  
+  <b>Note:</b> Most used languages are just calculated from my public repositories and does not represent my skills or experience.
 </p>
 
