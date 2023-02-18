@@ -4,6 +4,10 @@
 🧑‍💻 I ❤️ to create interactive web experiences <br>
 🤝 Looking forward to contribute in Web Dev and Java projects <br>
 
+### 🤹🏻‍♂️ Skills 
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
+
+
 ### 🔗 Let's get connected 
 <a href="https://www.linkedin.com/in/anand-suryawanshi-532a87155/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
