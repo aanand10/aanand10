@@ -39,12 +39,19 @@
 	</a>
 </div>
 
+### Recent Projects 👨‍💻
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=onlyanand10&repo=indronesAssignment2&show_icons=true&theme=great-gatsby"> 
+</div>
+
 <br/>
 
 ### 📈Stats
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=onlyanand10&show_icons=true&theme=cobalt"></img> <br/> 
-   <img src="https://github.com/onlyanand10/onlyanand10/blob/master/github-user-contribution.svg"></img> <br/>
    <img src="https://gpvc.arturio.dev/onlyanand10"></img>
 </div>
+
+Leave a ⭐ from [here](https://github.com/onlyanand10/onlyanand10) if you like 😁
 
