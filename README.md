@@ -1,11 +1,11 @@
-## 👋 Namaste, I'm <a href="https://dub.sh/anand"> <b style="color:red;">Anand Suryawanshi </b></a>
+## 👋 Namaste, I'm <a href="https://onlyanand10.github.io/portfolio/"> <b style="color:red;">Anand Suryawanshi </b></a>
 
-- 🔭 I'm Anand Suryawanshi, Pursuing my bachelors degree in Computer Engineering <br>
-- 💻 I'm a creative Front-end Developer <br>
-- 🧑‍💻 I ❤️ to create crazy projects <br>
-- 🤝 Looking forward to contribute in Web specific in frontend <br>
+- 🔭 I'm Anand Suryawanshi, Pursuing my bachelors degree in Computer Engineering 
+- 💻 I'm a creative Front-end Developer 
+- 🧑‍💻 I ❤️ to create crazy projects 
+- 🤝 Looking forward to contribute in Web specific in frontend 
 
-### 🤹🏻‍♂️ Skills
+### 🤹🏻‍♂️ Technical Skills
 <div align="center">
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -22,28 +22,29 @@
 
 ### 🔗 Let's get connected
 <div align="center">
-<a href="https://www.linkedin.com/in/anand-suryawanshi-532a87155/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
- </a> 
- <a href="https://github.com/onlyanand10" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="mailto:anandsuryawanshi66@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"   />
-</a>
-<a href="https://twitter.com/onlyanand10?lang=en">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"   />
-</a>
-<a href="https://www.youtube.com/channel/UCSch4za59t6N2kYfZH-B_YQ">
-	<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
+	<a href="https://www.linkedin.com/in/anand-suryawanshi-532a87155/">
+		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+	</a> 
+	<a href="https://github.com/onlyanand10" target="_blank">
+		<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+	</a>
+	<a href="mailto:anandsuryawanshi66@gmail.com">
+		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"   />
+	</a>
+	<a href="https://twitter.com/onlyanand10?lang=en">
+		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"   />
+	</a>
+	<a href="https://www.youtube.com/channel/UCSch4za59t6N2kYfZH-B_YQ">
+		<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+	</a>
 </div>
 
 <br/>
 
 ### 📈Stats
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=onlyanand10&show_icons=true&theme=cobalt"></img>
+   <img src="https://github-readme-stats.vercel.app/api?username=onlyanand10&show_icons=true&theme=cobalt"></img> <br/> 
+   <img src="https://github.com/onlyanand10/onlyanand10/blob/master/github-user-contribution.svg"></img> <br/>
    <img src="https://gpvc.arturio.dev/onlyanand10"></img>
 </div>
 
