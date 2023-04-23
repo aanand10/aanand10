@@ -39,11 +39,11 @@
 	</a>
 </div>
 
-###  👨‍💻 Recent Projects
+<!-- ###  👨‍💻 Recent Projects
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=onlyanand10&repo=indronesAssignment2&show_icons=true&theme=great-gatsby"> 
-</div>
+</div> -->
 
 <br/>
 
