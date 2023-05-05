@@ -49,7 +49,7 @@
 
 ### 📈 Stats
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=onlyanand10&show_icons=true&theme=cobalt"></img> <br/> 
+   <img src="https://github-readme-stats.vercel.app/api?username=onlyanand10&show_icons=true&theme=radical"></img> <br/> 
 <!--    ![Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=onlyanand10&show_icons=true&theme=transparent) <br/> -->
 <!--    <img src="https://gpvc.arturio.dev/onlyanand10"></img>  -->
 </div>
