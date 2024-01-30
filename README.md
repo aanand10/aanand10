@@ -1,9 +1,9 @@
 ## 👋 Namaste, I'm <a href="https://onlyanand10.github.io/portfolio/"> <b style="color:red;">Anand Suryawanshi </b></a>
 
-- 🔭 I'm Anand Suryawanshi, Pursuing my bachelors degree in Computer Engineering 
-- 💻 I'm a creative Front-end Developer 
-- 🧑‍💻 I ❤️ to create crazy projects 
-- 🤝 Looking forward to contribute in Web specific in frontend 
+- 🔭 I'm Anand Suryawanshi
+- 💻 I'm a Front-end Developer 
+- 🧑‍💻 I ❤️ to work with frontend technologies like React.js and Cesium.js 
+- 🤝 Looking forward for collaborations 
 
 ### 🤹🏻‍♂️ Technical Skills
 <div align="center">
@@ -13,9 +13,15 @@
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />	
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img alt="Redux" src="https://img.shields.io/badge/Redux-blue?style=for-the-badge&logo=redux&logoColor=white" />	
+<img alt="Cesium.Js" src="https://img.shields.io/badge/Cesium.JS-grey?style=for-the-badge&logo=cesium&logoColor=white" />
+<img alt="Leaflet.js" src="https://img.shields.io/badge/Leaflet.js-green?style=for-the-badge&logo=leaflet&logoColor=white" />
+<img alt="Material-UI" src="https://img.shields.io/badge/Material--UI-green?style=for-the-badge&logo=material-ui&logoColor=white" />	
+<img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+<img alt="Jira" src="https://img.shields.io/badge/Jira-orange?style=for-the-badge&logo=jira&logoColor=white" />
+<img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-purple?style=for-the-badge&logo=bitbucket&logoColor=white" />
+
 </div>
  
 <br/>
