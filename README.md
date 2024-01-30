@@ -1,9 +1,13 @@
 ## 👋 Namaste, I'm <a href="https://onlyanand10.github.io/portfolio/"> <b style="color:red;">Anand Suryawanshi </b></a>
 
-- 🔭 I'm Anand Suryawanshi
-- 💻 I'm a Front-end Developer 
-- 🧑‍💻 I ❤️ to work with frontend technologies like React.js and Cesium.js 
-- 🤝 Looking forward for collaborations 
+### Hi there 👋, I'm Anand Suryawanshi
+
+- 🔭 I'm a Front-end Developer
+- 💻 Currently, I'm working with frontend technologies like React.js and have hands-on experience with Cesium.js and Leaflet.js.
+- 🧑‍💻 I enjoy crafting interactive and engaging user interfaces with React.js, and I'm fascinated by the capabilities of mapping libraries like Cesium.js and Leaflet.js.
+- 🤝 I'm open to collaborations and always looking forward to exciting projects!
+Let's connect and build something amazing together! 😊
+
 
 ### 🤹🏻‍♂️ Technical Skills
 <div align="center">
